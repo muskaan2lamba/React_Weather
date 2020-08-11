@@ -1,0 +1,12 @@
+.input-field input{
+    color: black;
+    text-align: center;
+    border-radius: 2px;
+}
+.input-field label{
+    color: black;  
+}
+
+.input-field .prefix{
+    font-size: 3em;
+}
